@@ -4,6 +4,18 @@ Sharing my most-used macOS and iOS shortcuts for the benefit of others.
 
 Instructions for importing these are described on the [Apple Support site](https://support.apple.com/en-gb/guide/shortcuts-mac/apd02bffbaac/mac).
 
+## [Bear](bear)
+
+### Create Meeting Notes ###
+
+Creates a brand-new Bear note, pre-populated with sections to capture meeting attendees & minutes, then "pre-file" them into a #Work/Meetings tag.
+
+## [Safari](safari)
+
+### Avert Paywall ###
+
+Takes any URL (including those not already open in Safari) and processes them thru [archive.today](https://archive.today), which bypasses nearly all paywalls.
+
 ## [Things 3](things_3)
 
 ### Create GTD Weekly Review
@@ -11,7 +23,7 @@ Instructions for importing these are described on the [Apple Support site](https
 Creates a new project for GTD weekly review. Adjust the included dictionary to customize to-dos to match your review style / needs.
 
 > [!IMPORTANT]
-> This shortcut assumes you have an existing area named "Weekly Routines" to hold the project.  If not, edit the shortcut to reference a different Area (or none at all.
+> This shortcut assumes you have an existing area named "Weekly Routines" to hold the project.  If not, edit the shortcut to reference a different Area (or none at all).
 
 Example output after running the shortcut:
 
