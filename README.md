@@ -10,6 +10,12 @@ Instructions for importing these are described on the [Apple Support site](https
 
 Creates a brand-new Bear note, pre-populated with sections to capture meeting attendees & minutes, then "pre-file" them into a #Work/Meetings tag.
 
+## [Day One](day_one)
+
+### Add to Daily Note ###
+
+Appends user input to a daily note within Day One (or creates the note if it doesn’t already exist for the current date).  This is configured to be pinned to the Menu Bar, which allows you to run it by navigating to menu bar > Shortcuts > Add to Daily Note
+
 ## [Safari](safari)
 
 ### Avert Paywall ###
