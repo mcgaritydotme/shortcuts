@@ -8,7 +8,7 @@ Instructions for importing these are described on the [Apple Support site](https
 
 ### Create Meeting Notes ###
 
-Creates a brand-new Bear note, pre-populated with sections to capture meeting attendees & minutes, then "pre-file" them into a #Work/Meetings tag.
+Creates a brand-new Bear note, pre-populated with sections to capture meeting attendees & minutes, then "pre-file" them into a customer-specific tag under #Work/Meetings.
 
 ## [Day One](day_one)
 
