@@ -16,6 +16,10 @@ Creates a brand-new Bear note, pre-populated with sections to capture meeting at
 
 Appends user input to a daily note within Day One (or creates the note if it doesn’t already exist for the current date).  This is configured to be pinned to the Menu Bar, which allows you to run it by navigating to menu bar > Shortcuts > Add to Daily Note
 
+## Import PDFs into Day One ##
+
+For the folder selected at runtime, extracts the text from any PDF file and creates separate Day One entries in the journal named "Journal" (edit the shortcut to pick an alternative destination).  Creation date of the PDF file is used as the Day One entry date.  Each new Day One entry is tagged with "Import".
+
 ## [Safari](safari)
 
 ### Avert Paywall ###
