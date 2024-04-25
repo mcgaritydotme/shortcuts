@@ -24,7 +24,7 @@ For the folder selected at runtime, extracts the text from any PDF file and crea
 
 ### Create Notion Gallery Header ###
 
-For an image selected from your local device, it will overlay said image over a white background which is sized to best-fit within [Notion gallery headers]([Notion gallery headers](https://www.notion.so/help/galleries)), which is typically 1500 px wide x 600 px tall.  If your selected image is too long or short, it will also be resized to fit vertically.
+For an image selected from your local device, it will overlay said image over a white background which is sized to best-fit within [Notion gallery headers](https://www.notion.so/help/galleries), which is typically 1500 px wide x 600 px tall.  If your selected image is too long or short, it will also be resized to fit vertically.
 
 ## [Safari](safari)
 
