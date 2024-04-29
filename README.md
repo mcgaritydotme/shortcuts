@@ -36,7 +36,7 @@ Takes any URL (including those not already open in Safari) and processes them th
 
 ### Create GTD Weekly Review
 
-Creates a new project for GTD weekly review. Adjust the included dictionary to customize to-dos to match your review style / needs.
+Creates a new project for GTD weekly review. Adjust the included JSON to customize to-dos to match your review style / needs.  This supports adding descriptions and checklists to individual to-dos.
 
 > [!IMPORTANT]
 > This shortcut assumes you have an existing area named "Weekly Routines" to hold the project.  If not, edit the shortcut to reference a different Area (or none at all).
