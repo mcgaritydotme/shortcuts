@@ -48,3 +48,19 @@ Example output after running the shortcut:
 ### Someday Projects Hygiene
 
 For each Project with Start = Someday, loops thru child to-dos to set their Start = Someday as well
+
+## Notes to Self
+
+### Signing Shortcuts
+
+Starting with iOS 15, exported Shortcuts (like those within this repository) require signing before others can import them.  More about signing Shortcuts is available in the [official documentation](https://support.apple.com/en-au/guide/shortcuts-mac/apd455c82f02/7.0/mac/14.0#apd7006838ef).
+
+This is accomplished using the following Terminal command in macOS:
+
+`shortcuts sign --mode anyone --input "Import PDFs Into Day One.shortcut" --output "New Shortcut.shortcut"`
+
+There’s apparently a bug in macOS Sonoma — specifically 14.14.1 — which prevents signing.  No matter what, it results in the following error:
+
+`ERROR: Unrecognized attribute string flag '?' in attribute string "T@"NSString",?,R,C" for property debugDescription`
+
+My workaround for now is signing the Shortcuts from my older MacBook Pro that is running macOS Big Sur 11.7.10.
