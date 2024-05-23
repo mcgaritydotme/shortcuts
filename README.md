@@ -45,6 +45,10 @@ Example output after running the shortcut:
 
 ![Screenshot of Create GTD Weekly Review results](things_3/Create%20GTD%20Weekly%20Review%20Results.jpg)
 
+### Get Things 3 Project URL
+
+For a selected project, returns a callback URL that can be used to navigate directly to the project.  Useful for generating a URL to store in note-taking systems like Craft, Notion, Bear, etc.
+
 ### Someday Projects Hygiene
 
 For each Project with Start = Someday, loops thru child to-dos to set their Start = Someday as well
