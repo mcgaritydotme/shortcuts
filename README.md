@@ -20,6 +20,12 @@ Appends user input to a daily note within Day One (or creates the note if it doe
 
 For the folder selected at runtime, extracts the text from any PDF file and creates separate Day One entries in the journal named "Journal" (edit the shortcut to pick an alternative destination).  Creation date of the PDF file is used as the Day One entry date.  Each new Day One entry is tagged with "Import".
 
+## [macOS](macos)
+
+### Batch-Resize Images ###
+
+For one or more images selected, batch-resizes each and saves as a new image in the same folder.  Invoked as a Quick Action from the macOS Finder menu.  Final image size and crop starting location can be configured within the shortcut.  Note: this may also work from iOS, I just haven't tested it from there.
+
 ## [Notion](notion)
 
 ### Create Notion Gallery Header ###
