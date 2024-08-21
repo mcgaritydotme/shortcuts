@@ -14,7 +14,7 @@ Creates a brand-new Apple Notes note, pre-populated with sections to capture mee
 
 ### Create Meeting Notes in Bear ###
 
-Creates a brand-new Bear note, pre-populated with sections to capture meeting attendees & minutes, then "pre-files" it into a customer- or organization-specific tag under #Work/Meeting-Notes.
+Functionally the same as [Create Meeting Notes in Apple Notes](https://github.com/mcgaritydotme/shortcuts/blob/main/README.md#create-meeting-notes-in-apple-notes), but instead creates the brand-new note in Bear and "pre-files" it into a customer- or organization-specific tag under #Work/Meeting-Notes.
 
 ## [Day One](day_one)
 
