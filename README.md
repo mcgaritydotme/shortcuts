@@ -6,7 +6,7 @@ Instructions for importing these are described on the [Apple Support site](https
 
 ## [Apple Notes](apple_notes)
 
-### Create Meeting Notes in Bear ###
+### Create Meeting Notes in Apple Notes ###
 
 Creates a brand-new Apple Notes note, pre-populated with sections to capture meeting attendees & minutes, then organizes it customer- or organization-specific tags.
 
