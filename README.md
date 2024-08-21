@@ -4,11 +4,17 @@ Sharing my most-used macOS and iOS shortcuts for the benefit of others.
 
 Instructions for importing these are described on the [Apple Support site](https://support.apple.com/en-gb/guide/shortcuts-mac/apd02bffbaac/mac).
 
+## [Apple Notes](apple_notes)
+
+### Create Meeting Notes in Apple Notes ###
+
+Creates a brand-new Apple Notes note, pre-populated with sections to capture meeting attendees & minutes, then organizes it customer- or organization-specific tags.
+
 ## [Bear](bear)
 
 ### Create Meeting Notes in Bear ###
 
-Creates a brand-new Bear note, pre-populated with sections to capture meeting attendees & minutes, then "pre-file" them into a customer- or organization-specific tag under #Work/Meeting-Notes.
+Functionally the same as [Create Meeting Notes in Apple Notes](https://github.com/mcgaritydotme/shortcuts/blob/main/README.md#create-meeting-notes-in-apple-notes), but instead creates the brand-new note in Bear and "pre-files" it into a customer- or organization-specific tag under #Work/Meeting-Notes.
 
 ## [Day One](day_one)
 
